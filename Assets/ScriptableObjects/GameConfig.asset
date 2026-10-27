@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98c052d408bf94d368e1c31823ebcc6f, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Treasure::Treasure.GameConfig
+  originLatitude: 35.8697
+  originLongitude: 128.5955
+  vectorTileJsonUrl: https://tiles.openfreemap.org/planet
+  spots:
+  - {fileID: 11400000, guid: dcffdbe9c2d9f4d43975f22a49261ec9, type: 2}
+  - {fileID: 11400000, guid: f1ecb3cdf00f546019e10679b77bf357, type: 2}
+  - {fileID: 11400000, guid: cdfd018d28c53410cba7afa1fceca152, type: 2}
+  - {fileID: 11400000, guid: d8ca63f22309e4e52b94412fe0bf58e0, type: 2}
+  - {fileID: 11400000, guid: a38e3da91a1d04756982f715bec64fd3, type: 2}
+  - {fileID: 11400000, guid: 3a515387d75ee4b0a89ed3b73bf9c6eb, type: 2}
+  - {fileID: 11400000, guid: b9ab5b461aa5e423fb3403e8b38ee7ce, type: 2}
+  - {fileID: 11400000, guid: 9fb82ec7779104e068dd79e10bb8d974, type: 2}
+  - {fileID: 11400000, guid: daa067ca620f646ac8df28d0c1c693b2, type: 2}
+  - {fileID: 11400000, guid: eb4bf82f1a90c2d4db1782aadb2b60cc, type: 2}
+  - {fileID: 11400000, guid: 0dac743f155d02e44bf1300b03f271d5, type: 2}
+  - {fileID: 11400000, guid: 4215d0495a819e94aad02ab82c1c5eba, type: 2}
+  - {fileID: 11400000, guid: bf369f78aa8604844864ef972a9675f1, type: 2}
+  - {fileID: 11400000, guid: 871ea9c8051b5484fbd397b733150ff1, type: 2}
+  - {fileID: 11400000, guid: a4b89a5a774813b44881026d19d19537, type: 2}
+  - {fileID: 11400000, guid: 075d218884e4137499a64a2185781621, type: 2}
+  - {fileID: 11400000, guid: 207ddae3e313b6144b6b1ab1d37db109, type: 2}
+  - {fileID: 11400000, guid: 46e12f413a39b7a4e8f961a06e43717a, type: 2}
+  - {fileID: 11400000, guid: 2e1d18139f89fa8419c3c30846613beb, type: 2}
+  - {fileID: 11400000, guid: a3cb4ba3c04a324468ec18633c3c22e9, type: 2}
+  - {fileID: 11400000, guid: 9fa8649f5789e7c4d869ebbb0a8c8f8b, type: 2}
+  - {fileID: 11400000, guid: eb9331d0f0ad294419274c25f4db6df6, type: 2}
+  - {fileID: 11400000, guid: bab656b5a4805f04dad754715d0eec55, type: 2}
+  - {fileID: 11400000, guid: c7d5868c25491e14eaf7cd46ed7a1b2c, type: 2}
+  - {fileID: 11400000, guid: 0d247766bff1a6644bf5ecf41c914193, type: 2}
+  shopItems:
+  - {fileID: 11400000, guid: 18d91af80c61b43cfbd7fee61f3c00c7, type: 2}
+  - {fileID: 11400000, guid: 0b2702edcda3e4b6e9051a9a3466cd06, type: 2}
+  - {fileID: 11400000, guid: 97f67ad6167504399bad38289d7a7ed1, type: 2}
+  puzzleImage: {fileID: 2800000, guid: 551949aa049144b6ebc13c28a8a8cf48, type: 3}
+  puzzleColumns: 4
+  puzzleRows: 4
+  startingCoins: 300
+  coinsPerCapture: 100
+  failCooldownSeconds: 180
+  successCooldownSeconds: 60

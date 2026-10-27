@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: SparkLand
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: SparkLand
+  displayName: "\uC2A4\uD30C\uD06C\uB79C\uB4DC"
+  description: "\uAC74\uBB3C \uC625\uC0C1\uC5D0 \uB300\uAD00\uB78C\uCC28\uAC00 \uC788\uB294
+    \uB3D9\uC131\uB85C\uC758 \uB79C\uB4DC\uB9C8\uD06C. \uAD00\uB78C\uCC28\uC5D0 \uC624\uB974\uBA74
+    \uB3D9\uC131\uB85C\uAC00 \uD55C\uB208\uC5D0 \uBCF4\uC778\uB2E4."
+  latitude: 35.8687
+  longitude: 128.59875
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: ff0a51ccef3d44104acca4a3b371a5cf, type: 2}
+  puzzlePieceIndices: 0c0000000d000000
+  isFinalSpot: 0

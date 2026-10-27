@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: GukchaeBosangPark
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: GukchaeBosangPark
+  displayName: "\uAD6D\uCC44\uBCF4\uC0C1\uC6B4\uB3D9\uAE30\uB150\uACF5\uC6D0"
+  description: "1907\uB144 \uC2DC\uBBFC\uB4E4\uC774 \uB098\uB78F\uBE5A\uC744 \uAC1A\uC790\uBA70
+    \uB73B\uC744 \uBAA8\uC740 \uAD6D\uCC44\uBCF4\uC0C1\uC6B4\uB3D9\uC744 \uAE30\uB150\uD558\uB294
+    \uACF5\uC6D0. \uB2EC\uAD6C\uBC8C\uB300\uC885\uC774 \uC788\uB2E4."
+  latitude: 35.8687
+  longitude: 128.60196
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: 5af11167194664724b65421bf71c3fc1, type: 2}
+  puzzlePieceIndices: 0200000003000000
+  isFinalSpot: 0

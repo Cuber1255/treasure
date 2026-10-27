@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: HyangchonCulturaCenter
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: HyangchonCulturalCenter
+  displayName: "\uD5A5\uCD0C\uBB38\uD654\uAD00"
+  description: "\uBD81\uC131\uB85C \uC785\uAD6C, \uC61B \uD55C\uAD6D\uC0C1\uC5C5\uC740\uD589
+    \uB300\uAD6C\uC9C0\uC810 \uAC74\uBB3C. 1950\uB144\uB300 \uB300\uAD6C\uC758 \uC61B
+    \uACE8\uBAA9\uACFC \uC0B6\uC744 \uC0DD\uC0DD\uD558\uAC8C \uC7AC\uD604\uD55C \uC2DC\uAC04\uC5EC\uD589
+    \uACF5\uAC04\uC774\uB2E4."
+  latitude: 35.8733
+  longitude: 128.5942
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: d31150bdaab2b4eed89104622dcbcc5a, type: 2}
+  puzzlePieceIndices: 0a0000000b000000
+  isFinalSpot: 0

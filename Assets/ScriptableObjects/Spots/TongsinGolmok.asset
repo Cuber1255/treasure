@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: TongsinGolmok
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: Tongsingolmok
+  displayName: "\uB3D9\uC131\uB85C \uB85C\uB370\uC624\uAC70\uB9AC"
+  description: "\uB3D9\uC131\uB85C \uB0A8\uCABD \uC785\uAD6C, \uB300\uAD6C\uBC31\uD654\uC810\uC5D0\uC11C
+    \uB300\uAD6C\uCD08\uB4F1\uD559\uAD50 \uBC29\uD5A5. \uACFC\uAC70 \uD734\uB300\uD3F0
+    \uAC70\uB9AC\uC5D0\uC11C \uC9C0\uAE08\uC740 \uD328\uC158\uACFC \uC18C\uD488 \uC20D\uC774
+    \uBAA8\uC778 \uAE38\uBAA9\uC774\uB2E4."
+  latitude: 35.8662
+  longitude: 128.5975
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: d31150bdaab2b4eed89104622dcbcc5a, type: 2}
+  puzzlePieceIndices: 0a0000000b000000
+  isFinalSpot: 0

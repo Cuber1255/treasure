@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: GukchaeBosangLibrary
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: GukchaeBosangLibrary
+  displayName: "\uAD6D\uCC44\uBCF4\uC0C1\uC6B4\uB3D9\uAE30\uB150\uB3C4\uC11C\uAD00"
+  description: "\uC61B \uC911\uC559\uB3C4\uC11C\uAD00 \uC790\uB9AC, \uB3D9\uC131\uB85C
+    \uB3D9\uCABD. \uAD6D\uCC44\uBCF4\uC0C1\uC6B4\uB3D9\uC758 \uC815\uC2E0\uC774 \uC11C\uB9B0
+    \uB3C4\uC2EC \uC18D \uB3C5\uC11C\uC640 \uD734\uC2DD\uC758 \uC7A5\uC18C\uB2E4."
+  latitude: 35.8684
+  longitude: 128.6017
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: d31150bdaab2b4eed89104622dcbcc5a, type: 2}
+  puzzlePieceIndices: 0a0000000b000000
+  isFinalSpot: 0

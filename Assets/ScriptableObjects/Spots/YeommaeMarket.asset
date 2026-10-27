@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: YeommaeMarket
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: YeommaeMarket
+  displayName: "\uC5FC\uB9E4\uC2DC\uC7A5"
+  description: "\uD604\uB300\uBC31\uD654\uC810(\uB354\uD604\uB300 \uB300\uAD6C) \uB4B7\uACE8\uBAA9,
+    \uC624\uB798\uB41C \uC804\uD1B5\uC2DC\uC7A5. \uC815\uACA8\uC6B4 \uB5A1\uC9D1\uACFC
+    \uAC00\uC131\uBE44 \uB6F0\uC5B4\uB09C \uBA39\uAC70\uB9AC\uAC00 \uAC00\uB4DD\uD55C
+    \uB3C4\uC2EC \uC18D \uC804\uD1B5\uC2DC\uC7A5\uC774\uB2E4."
+  latitude: 35.8669
+  longitude: 128.5917
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: d31150bdaab2b4eed89104622dcbcc5a, type: 2}
+  puzzlePieceIndices: 0a0000000b000000
+  isFinalSpot: 0

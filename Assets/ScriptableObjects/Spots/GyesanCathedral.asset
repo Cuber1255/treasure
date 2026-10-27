@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: GyesanCathedral
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: GyesanCathedral
+  displayName: "\uACC4\uC0B0\uC131\uB2F9"
+  description: "1902\uB144 \uC138\uC6CC\uC9C4 \uACE0\uB515 \uC591\uC2DD \uC131\uB2F9.
+    \uADFC\uB300\uACE8\uBAA9 \uD22C\uC5B4\uC758 \uC911\uC2EC\uC9C0\uB2E4."
+  latitude: 35.86794
+  longitude: 128.58784
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: 374540346111a41f4a9be3fa9e6c7163, type: 2}
+  puzzlePieceIndices: 0e0000000f000000
+  isFinalSpot: 0

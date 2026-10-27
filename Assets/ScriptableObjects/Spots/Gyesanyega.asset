@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: Gyesanyega
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: Gyesanyega
+  displayName: "\uADFC\uB300\uBB38\uD654\uCCB4\uD5D8\uAD00 \uACC4\uC0B0\uC608\uAC00"
+  description: "\uC774\uC0C1\uD654\xB7\uC11C\uC0C1\uB3C8 \uACE0\uD0DD \uBC14\uB85C
+    \uC606, \uB300\uAD6C \uADFC\uB300\uACE8\uBAA9 \uD22C\uC5B4\uC758 \uAC70\uC810.
+    \uB300\uAD6C \uADFC\uB300 \uBB38\uD654\uC640 \uACE8\uBAA9\uC758 \uC5ED\uC0AC\uB97C
+    \uC54C\uAE30 \uC27D\uAC8C \uC548\uB0B4\uD558\uB294 \uCCB4\uD5D8\uAD00\uC774\uB2E4."
+  latitude: 35.8672
+  longitude: 128.5879
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: d31150bdaab2b4eed89104622dcbcc5a, type: 2}
+  puzzlePieceIndices: 0a0000000b000000
+  isFinalSpot: 0

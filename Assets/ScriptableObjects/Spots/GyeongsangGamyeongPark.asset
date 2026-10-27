@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5ccbcfa5b6844fdb41808c82667aa8, type: 3}
+  m_Name: GyeongsangGamyeongPark
+  m_EditorClassIdentifier: Treasure::Treasure.SpotData
+  spotId: 'GyeongsangGamyeongPark '
+  displayName: "\uACBD\uC0C1\uAC10\uC601\uACF5\uC6D0"
+  description: "\uB300\uAD6C\uADFC\uB300\uC5ED\uC0AC\uAD00 \uC606, \uC61B \uACBD\uC0C1\uB3C4
+    \uAD00\uC544 \uD130. \uC870\uC120\uC2DC\uB300 \uD589\uC815 \uC911\uC2EC\uC9C0\uC774\uC790
+    \uD478\uB978 \uB098\uBB34 \uC544\uB798 \uC2DC\uBBFC\uB4E4\uC774 \uC26C\uC5B4\uAC00\uB294
+    \uB3C4\uC2EC \uC720\uC801 \uACF5\uC6D0\uC774\uB2E4."
+  latitude: 35.8721
+  longitude: 128.5922
+  captureRadiusMeters: 40
+  character: {fileID: 11400000, guid: d31150bdaab2b4eed89104622dcbcc5a, type: 2}
+  puzzlePieceIndices: 0a0000000b000000
+  isFinalSpot: 0
